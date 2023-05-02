@@ -1,5 +1,5 @@
 /*
-    Programmers ÃÖ´ñ°ª°ú ÃÖ¼Ú°ª (12939)
+    Programmers  (12939)
 */
 
 #include <iostream>
