@@ -24,7 +24,7 @@ public class Jaehyuck_20230502 {
             answer++;
         }
         
-        	System.out.println(answer);
+        	System.out.println(answer+1);
 
 	}
 
