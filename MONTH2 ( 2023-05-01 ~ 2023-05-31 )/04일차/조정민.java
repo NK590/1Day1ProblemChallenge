@@ -32,6 +32,7 @@ public class Main {
 			arr[i][2] = c;
 		}
 		
+		
 		Arrays.sort(arr, (a, b) -> a[1] - b[1]);
 		
 		
