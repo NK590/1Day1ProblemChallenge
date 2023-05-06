@@ -1,4 +1,4 @@
-// 나이트의 이동
+// 백준 2644 나이트의 이동
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
