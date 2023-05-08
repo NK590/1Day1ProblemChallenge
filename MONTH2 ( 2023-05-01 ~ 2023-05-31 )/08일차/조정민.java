@@ -1,4 +1,4 @@
-package test;
+// 백준 1967 - 트리의 지름
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
