@@ -4,7 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-
+// 백준 silver level5 덩치 (7568)
+// https://www.acmicpc.net/problem/7568
 public class Jaehyuck_20230520 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
