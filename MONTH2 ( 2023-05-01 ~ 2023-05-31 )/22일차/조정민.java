@@ -1,3 +1,5 @@
+// 백준 1655 - 가운데를 말해요
+
 import java.io.*;
 import java.util.Arrays;
 import java.util.Collections;
