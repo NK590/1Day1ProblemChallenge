@@ -1,3 +1,5 @@
+// 백준 1106 - 호텔
+
 import java.io.*;
 import java.lang.reflect.Array;
 import java.util.Arrays;
