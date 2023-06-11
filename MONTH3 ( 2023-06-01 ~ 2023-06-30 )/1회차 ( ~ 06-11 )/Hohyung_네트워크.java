@@ -1,3 +1,6 @@
+// https://school.programmers.co.kr/learn/courses/30/lessons/43162
+// 프로그래머스 43162 네트워크
+
 public class Solution {
 
     public int solution(int n, int[][] computers) {
